@@ -1,7 +1,7 @@
 *.pth
 *.txt
 *.npy
-*.png
+# *.png
 *.out
 *.pyc
 # *.csv
