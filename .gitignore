@@ -7,3 +7,5 @@
 # *.csv
 __pycache__/
 a/
+result/*
+weight/*
