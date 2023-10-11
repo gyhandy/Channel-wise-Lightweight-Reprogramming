@@ -1,7 +1,7 @@
 # Channel-wise-Lightweight-Reprogramming
 [ICCV 2023] CLR: Channel-wise Lightweight Reprogramming for Continual Learning
 
-### [Project Page(pending)](http://ilab.usc.edu/) | [Video(pending)](https://youtu.be/) | [Paper](https://arxiv.org/pdf/2307.11386.pdf)
+### [Project Page(pending)](http://ilab.usc.edu/) | [Video(Youtube)](https://www.youtube.com/watch?v=hmOtuNC1ANU) | [Video(bilibili)](https://www.bilibili.com/video/BV1tV411F7Jk/?vd_source=23e2f116d5fa70e695869d89c84692ed#reply406652616) | [Paper](https://arxiv.org/pdf/2307.11386.pdf)
 
 > **CLR: Channel-wise Lightweight Reprogramming for Continual Learning** <br>
 > Yunhao Ge, Yuecheng Li, Shuo Ni, Jiaping Zhao, Ming-Hsuan Yang, Laurent Itti <br>
